@@ -193,6 +193,42 @@
       "name": "Awesome Concrete Shirt",
       "price": "165.00",
       "imageUrl": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 8,
+      "name": "Refined Fresh Chicken",
+      "price": "209.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 25,
+      "name": "Sleek Plastic Mouse",
+      "price": "909.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 26,
+      "name": "Refined Fresh Chicken",
+      "price": "209.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 27,
+      "name": "Refined Fresh Chicken",
+      "price": "209.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 17,
+      "name": "Sleek Soft Shirt",
+      "price": "654.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 3,
+      "name": "Practical Metal Gloves",
+      "price": "702.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
     }
   ]
 }
